@@ -3,3 +3,5 @@ goodbye
 
 for i in range(0, 15):
   print("helloworld")
+  print("Hello There")
+  print("General Kenobi")
