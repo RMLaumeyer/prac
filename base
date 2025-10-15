@@ -2,5 +2,8 @@ hello
 goodbye
 
 for i in range(0, 15):
+
   print("Hello World")
   print("deez nutz")
+  print("Hello There")
+  print("General Kenobi")
