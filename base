@@ -27,4 +27,4 @@ def analyze_numbers(numbers):
     print("Evens:", evens, "Odds:", odds)
 
 
-
+r1 = 10
