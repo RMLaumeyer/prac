@@ -13,6 +13,7 @@ for i in range(0, 15):
 
 
 print("14 inches")
+print("shudong is a cutie hunk")
 
 def analyze_numbers(numbers):
     total = sum(numbers)
