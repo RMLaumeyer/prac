@@ -5,7 +5,8 @@ DOC PRINT
 '''
 for i in range(0, 15):
 
-  print("Hello World")
+  print("Hello Universe")
+  print("Hello shudong")
 
 
   print("Hello dasdjfjladfThere")
@@ -30,6 +31,15 @@ def analyze_numbers(numbers):
     largest = max(numbers) if numbers else None
     evens = len([n for n in numbers if n % 2 == 0])
     odds = len(numbers) - evens
+    summ = 0
+    summ += n for n in numbers
+    summ_while = 0
+    i = 0
+    while i < len(numbers):
+      summ_while ++ numbers[i]
+      i+=1
+    print("sum:", summ)
+    print("while_sum:", summ_while)
     print("Total:", total)
     print("Average:", avg)
     print("Min:", smallest, "Max:", largest)
