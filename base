@@ -4,12 +4,16 @@ goodbye
 for i in range(0, 15):
 
   print("Hello World")
-  print("lasdhjflhaskdlgjhfklajl")
+
+
+  print("heloodkasjfalk")
+
   print("Hello There")
   print("General Kenobi")
   print("Obama")
 
-print("askjdhfjkhasdklgfhka")
+
+print("14 inches")
 
 
 
