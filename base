@@ -1,6 +1,8 @@
 hello
 goodbye
-
+'''
+DOC PRINT
+'''
 for i in range(0, 15):
 
   print("Hello World")
@@ -13,10 +15,17 @@ for i in range(0, 15):
 
 
 print("14 inches")
+print("shudong is a cutie hunk")
+var = 6
+var6 = 'h'
+var9 = "g"
 
 def analyze_numbers(numbers):
     total = sum(numbers)
-    avg = total / len(numbers) if numbers else 0
+    if numbersP:
+      avg = total / len(numbers)
+    else:
+      avg= 0
     smallest = min(numbers) if numbers else None
     largest = max(numbers) if numbers else None
     evens = len([n for n in numbers if n % 2 == 0])
